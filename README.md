@@ -1,2 +1,2 @@
 # myfirstrepo
-What figuring it out looks like
+What figuring it out looks like daily
